@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 40vh;
+gap: 2rem;
+}
+
+#color-box{
+    padding: 2rem;
+    background-color: cornflowerblue;
+}
+
+#change-color-btn{
+    padding: 1rem;
+    border-radius: 2em;
+    border-color: aqua;
+}
